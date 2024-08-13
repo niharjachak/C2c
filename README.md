@@ -1,4 +1,4 @@
-# C2C(Campus To Coprporate)-Placement Analysis and Prediction System
+# C2C(Campus To Corporate)-Placement Analysis and Prediction System
 
 
 About the Project
