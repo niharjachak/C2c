@@ -1,6 +1,6 @@
 # C2C(Campus To Coprporate)-Placement Analysis and Prediction System
 
-# Overview
+
 About the Project
 The Placement Prediction System is an innovative tool designed to streamline and enhance the campus placement process. Developed by a dedicated team as a capstone project, this system provides powerful features to assist students, placement officers, and educational institutions in navigating the complexities of campus recruitment.
 
